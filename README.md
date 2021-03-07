@@ -3,7 +3,7 @@
 
 ---
 
-1. [Анализ пользовательского поведения в мобильном приложении](https://github.com/al-lazar/Praktikum/tree/main/aab_test)
+### [Анализ пользовательского поведения в мобильном приложении](https://github.com/al-lazar/Praktikum/tree/main/aab_test)
 
 Исследование воронки продаж и анализ результатов А/А/В-теста.
 
@@ -11,7 +11,7 @@
 
 ---
 
-2. [Оптимизация маркетинговых затрат в Яндекс.Афише](https://github.com/al-lazar/Praktikum/tree/main/marketing_metrics)
+### [Оптимизация маркетинговых затрат в Яндекс.Афише](https://github.com/al-lazar/Praktikum/tree/main/marketing_metrics)
 
 Расчет и анализ основных маркетинговых метрик, составление рекомендаций по оптимизации маркетинговыхзатрат.
 
@@ -19,7 +19,7 @@
 
 ---
 
-3. [Исследование рынка общественного питания Москвы](https://github.com/al-lazar/Praktikum/tree/main/moscow_catering)
+### [Исследование рынка общественного питания Москвы](https://github.com/al-lazar/Praktikum/tree/main/moscow_catering)
 
 Исследование рынка общественного питания Москвы перед открытием кафе, визуализация данных и оформление презентации.
 
